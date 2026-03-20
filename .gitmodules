@@ -1,0 +1,8 @@
+[submodule "nadobrynin.github.io"]
+	path = nadobrynin.github.io
+	url = https://github.com/DobryninNik/nadobrynin.github.io.git
+	branch = main
+[submodule "public"]
+	path = public
+	url = https://github.com/DobryninNik/nadobrynin.github.io.git
+	branch = main
