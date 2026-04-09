@@ -57,38 +57,37 @@ education:
   
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Комментатор матча
+    org: Goplit RUDN
+    start: 2025-08-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
+      Комментировал матчи по игре VALORANT.
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: Стажер программист
+    org: Норбит
+    start: 2025-06-01
+    end: 2016-08-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Работал на созданием системм автоматизации сбора данных для приложений-сервисов.
 
 skills:
   - name: Technical Skills
     items:
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+        level: 3
+      - label: Анализ данных
+        level: 2
+      - label: Работа с ИИ
         level: 4
   - name: Research & Communication
     items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
+      - label: Языки
         level: 4
-      - label: Grant Proposals
+      - label: Представляю презентации
+        level: 4
+      - label: Коммуникация
         level: 4
 
 languages:
@@ -100,8 +99,8 @@ languages:
     label: Fluent
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Gamedev.js
+    awarder: end3r
+    date: "2026-08-03"
+    summary: Награжден за лучшее музыкальное сопровождение к игре.
     icon: hero/trophy
